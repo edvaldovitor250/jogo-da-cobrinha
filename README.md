@@ -5,10 +5,15 @@ Gostaria de compartilhar com vocês um projeto que eu mesmo desenvolvi, conhecid
 Recursos utilizados no desenvolvimento do projeto:
 
 Java Swing
+
 Collections
+
 Programação Orientada a Objetos (POO)
+
 KeyAdapter
+
 Exceções
+
 Estruturas de Controle
 
 No geral, foi uma experiência bastante tranquila. Foi gratificante poder reutilizar diversos conhecimentos prévios em Java e, ao mesmo tempo, enfrentar esse desafio pessoal. Foi definitivamente uma experiência única.
