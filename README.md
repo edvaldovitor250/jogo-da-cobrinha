@@ -1,19 +1,28 @@
-JOGO DA COBRINHA
+# Projeto: Jogo da Cobrinha (Snake Game)
 
-Gostaria de compartilhar com vocês um projeto que eu mesmo desenvolvi, conhecido como o jogo da cobrinha, ou "snake game" em inglês. O projeto foi criado totalmente em Java, baseado no meu conhecimento prévio da linguagem, e levou cerca de três semanas para ser concluído. Uma das principais dificuldades que encontrei foi relacionada aos botões, especificamente para posicionar a cobra no local correspondente ao botão pressionado pelo usuário. Para superar esse obstáculo, realizei pesquisas para obter os resultados desejados. Apesar de enfrentar algumas dificuldades ao longo do processo, elas foram oportunidades de aprendizado que me motivaram a continuar.
+https://github.com/edvaldovitor250/JogoDaCobrinha/assets/116117189/9a1dc59c-fa89-429c-99e1-ed391d8fa851
 
-Recursos utilizados no desenvolvimento do projeto:
+Gostaria de compartilhar com vocês um projeto que desenvolvi pessoalmente, conhecido como o "Jogo da Cobrinha" (ou "Snake Game" em inglês). O projeto foi criado inteiramente em Java, com base no meu conhecimento prévio da linguagem, e levou cerca de três semanas para ser concluído. 
 
-Java Swing
+## Desafios e Aprendizado
 
-Collections
+Uma das principais dificuldades que encontrei no processo de desenvolvimento estava relacionada aos controles, especialmente para posicionar a cobra no local correspondente ao botão pressionado pelo usuário. Para superar esse obstáculo, conduzi pesquisas extensas para obter os resultados desejados. Apesar das dificuldades encontradas, elas se transformaram em valiosas oportunidades de aprendizado que me motivaram a continuar aprimorando o projeto.
 
-Programação Orientada a Objetos (POO)
+## Recursos e Tecnologias Utilizados
 
-KeyAdapter
+Durante o desenvolvimento deste projeto, utilizei diversos recursos e tecnologias:
 
-Exceções
+- Java Swing
+- Collections
+- Programação Orientada a Objetos (POO)
+- KeyAdapter
+- Exceções
+- Estruturas de Controle
 
-Estruturas de Controle
+## Experiência Única
 
-No geral, foi uma experiência bastante tranquila. Foi gratificante poder reutilizar diversos conhecimentos prévios em Java e, ao mesmo tempo, enfrentar esse desafio pessoal. Foi definitivamente uma experiência única.
+Em resumo, essa jornada foi uma experiência tranquila, porém altamente gratificante. Foi incrível poder aplicar conhecimentos prévios em Java enquanto enfrentava desafios pessoais. Essa experiência única me proporcionou um aprendizado valioso e a oportunidade de criar um divertido jogo da cobrinha em Java.
+
+Agradeço a todos que apoiaram este projeto e espero que ele inspire outros a explorar a emocionante área do desenvolvimento de jogos.
+
+🎮🐍
